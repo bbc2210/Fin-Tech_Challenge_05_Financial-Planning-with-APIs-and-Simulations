@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Other
+financial_planning_tools_0000_0001_debug.ipynb
+challenge05_plot1.PNG
+challenge05_plot2.PNG
+SAMPLE.env
